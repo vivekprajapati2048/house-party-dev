@@ -1,6 +1,6 @@
 venv
-workflow.md
-
+workflow.txt
+house_party/frontend/node_modules/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
